@@ -25,7 +25,7 @@ fraco e perdido em um mundo que não conhece, mas que de acordo com sua explora�
 recompensado coletando cada vez mais itens e descobrindo mais partes do mundo, ou seja, criar
 um contraste na parte inicial e final do jogo.
 Já com o enredo, queremos fazer o jogador questionar e duvidar toda informação que
-é passada pra ele, já que ele será "largado"em um mundo onde não desconhecido, e toda a
+é passada pra ele, já que ele será "largado"em um mundo desconhecido, e toda a
 informação do enredo será descoberta conversando com NPCs e analisando os ambientes em volta
 do player. Será que os NPCs que guiam o jogador estão guiando o jogador em sua jornada querem
 o bem para esse mundo destruído? Será que o personagem do jogador não tem participação na
