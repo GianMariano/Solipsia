@@ -5,7 +5,7 @@
 - O ponto de partida é o **"S"** no canto inferior esquerdo.
 - O caminho verde indica o **trajeto ideal** até o objetivo final.
 - Elementos importantes do percurso:
-  - **Portas trancadas** (necessitam chaves para serem abertas)
+  - **Portas trancadas** (necessitam chaves e que o jogador finalize áreas especificas para serem abertas)
   - **Chaves** (distribuídas em áreas com Mini Bosses)
   - **Mini Bosses** (guardam chaves necessárias para avançar)
   - **Inimigos** (espalhados pelo caminho, exigem combate )
