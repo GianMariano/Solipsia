@@ -1,4 +1,4 @@
-## Introdução
+# Introdução
 Solipsia é um jogo de plataforma e aventura com temática dark fantasy. Esses gêneros combinam exploração, combate, obstáculos, armadilhas com uma estética sombria e misteriosa, desbloqueando novas habilidades e descobrindo fragmentos sobre a história do jogo.
 Um exemplo marcante desse estilo é Hollow Knight, que mescla exploração, combates e uma ambientação sombria.
 
