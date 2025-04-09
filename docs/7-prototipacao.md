@@ -17,4 +17,4 @@
   - Coletar **três chaves**
   - Abrir a **porta trancada principal**
   - Derrotar o **Boss final**
-  - Alcançar o **objetivo final*
+  - Alcançar o **objetivo final**
