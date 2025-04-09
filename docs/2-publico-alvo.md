@@ -1,4 +1,4 @@
-### Público Alvo
+##Público Alvo
 
 Indivíduos na faixa etária de 16 a 35 anos são atraídos por narrativas densas, estéticas sombrias e temas filosóficos que abordam a memória, a existência e o sacrifício, características estas que ressoam com um público mais maduro. Ademais, a dificuldade progressiva e o combate estratégico são elementos que atraem jogadores experientes. O jogo deve atrair principalmente entusiastas de Metroidvania e jogos de plataforma desafiadores, aqueles que apreciam títulos como Hollow Knight, Ori and the Blind Forest, Blasphemous e Salt and Sanctuary, os quais combinam exploração, progressão gradual e combates intensos. Além disso, o público indie e alternativo inclui indivíduos que procuram jogos com forte identidade artística, seja no design, na ambientação, na trilha sonora ou nas temáticas filosóficas.
 
